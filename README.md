@@ -1,6 +1,5 @@
 # boi
 
-This application was generated using JHipster, you can find documentation and help at [https://jhipster.github.io](https://jhipster.github.io).
 
 ~~~
                                                    /-------------\
@@ -121,4 +120,4 @@ To setup this project in Jenkins, use the following configuration:
 [Karma]: http://karma-runner.github.io/
 [Jasmine]: http://jasmine.github.io/2.0/introduction.html
 [Protractor]: https://angular.github.io/protractor/
-# boi
+
